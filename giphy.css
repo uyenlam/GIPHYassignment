@@ -1,0 +1,25 @@
+body{
+	padding: 10px;
+}
+
+h1{
+	color: teal;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+}
+
+label{
+	color: teal;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.topic, #add-choice {
+	background-color: teal;
+	color: white;
+	font-weight: bold;
+	border: 1px solid teal;
+	margin: 5px;
+	font-size: 15px;
+}
